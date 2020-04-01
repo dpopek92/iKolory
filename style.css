@@ -1,0 +1,118 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.pageWrapper {
+  position: relative;
+}
+nav {
+  width: 100%;
+  height: 50px;
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  background-color: rgba(248, 248, 248, 1);
+  -webkit-box-shadow: 2px 5px 10px rgba(212, 212, 212, 1);
+  box-shadow: 2px 5px 10px rgba(212, 212, 212, 1);
+}
+.logo {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+main {
+  padding: 0 100px;
+}
+
+/* Basic */
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.title {
+  margin: 0;
+  color: #34a4db;
+  letter-spacing: 10px;
+  font-size: 36px;
+}
+.btn {
+  padding: 5px 40px;
+  border: 1px solid lightgray;
+  background-color: white;
+  letter-spacing: 3px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn.active {
+  background-color: rgba(227, 247, 253, 1);
+}
+
+/* Palette */
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.card {
+  cursor: pointer;
+  position: relative;
+  width: 200px;
+  height: 100px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: lightgreen;
+  -webkit-transition: -webkit-transform 200ms;
+  transition: -webkit-transform 200ms;
+  -o-transition: transform 200ms;
+  transition: transform 200ms;
+  transition: transform 200ms, -webkit-transform 200ms;
+}
+.card:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.card__caption {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.preview {
+  width: 90vw;
+  height: 80vh;
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  position: fixed;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+.previewCaption {
+  width: fit-content;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 5px 10px;
+  border-radius: 3px;
+}
