@@ -1,0 +1,1067 @@
+[
+  {
+    "type": "color",
+    "name": "RAL 9023",
+    "hexValue": "#828281"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9022",
+    "hexValue": "#9C9C9C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9018",
+    "hexValue": "#D7D7D6"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9017",
+    "hexValue": "#1E1E1E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9016",
+    "hexValue": "#F6F6F5"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9011",
+    "hexValue": "#1C1C1C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9010",
+    "hexValue": "#FFFFFF"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9007",
+    "hexValue": "#8F8F8F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9006",
+    "hexValue": "#A5A5A4"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9005",
+    "hexValue": "#0A0A0A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9004",
+    "hexValue": "#282827"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9003",
+    "hexValue": "#F4F4F3"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9002",
+    "hexValue": "#E7EBDA"
+  },
+  {
+    "type": "color",
+    "name": "RAL 9001",
+    "hexValue": "#FDF4E2"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8029",
+    "hexValue": "#763C27"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8028",
+    "hexValue": "#4E3B30"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8025",
+    "hexValue": "#755C47"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8024",
+    "hexValue": "#79553D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8023",
+    "hexValue": "#A65E2E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8022",
+    "hexValue": "#212120"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8019",
+    "hexValue": "#403A3A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8017",
+    "hexValue": "#45322E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8016",
+    "hexValue": "#4C2F26"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8015",
+    "hexValue": "#633A33"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8014",
+    "hexValue": "#382C1E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8012",
+    "hexValue": "#592320"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8011",
+    "hexValue": "#5B3A28"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8008",
+    "hexValue": "#6F4F27"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8007",
+    "hexValue": "#59351F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8004",
+    "hexValue": "#8E402A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8003",
+    "hexValue": "#734221"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8002",
+    "hexValue": "#6C3B2A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8001",
+    "hexValue": "#955F19"
+  },
+  {
+    "type": "color",
+    "name": "RAL 8000",
+    "hexValue": "#826C33"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7048",
+    "hexValue": "#898175"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7047",
+    "hexValue": "#D0D0D1"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7046",
+    "hexValue": "#82898F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7045",
+    "hexValue": "#909089"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7044",
+    "hexValue": "#CAC4B1"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7043",
+    "hexValue": "#4E5451"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7042",
+    "hexValue": "#8D948D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7040",
+    "hexValue": "#9DA1AA"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7039",
+    "hexValue": "#6C6959"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7038",
+    "hexValue": "#B5B8B0"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7037",
+    "hexValue": "#7D7F7D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7036",
+    "hexValue": "#7F7678"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7035",
+    "hexValue": "#D7D7D6"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7034",
+    "hexValue": "#8F8B65"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7033",
+    "hexValue": "#7D8470"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7032",
+    "hexValue": "#B8B798"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7031",
+    "hexValue": "#474B4E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7030",
+    "hexValue": "#8B8C7A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7026",
+    "hexValue": "#2F353B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7024",
+    "hexValue": "#474A50"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7023",
+    "hexValue": "#686C5E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7022",
+    "hexValue": "#332F2C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7021",
+    "hexValue": "#23282B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7016",
+    "hexValue": "#293132"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7015",
+    "hexValue": "#434749"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7013",
+    "hexValue": "#464530"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7012",
+    "hexValue": "#4E5753"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7011",
+    "hexValue": "#434B4D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7010",
+    "hexValue": "#4C514A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7009",
+    "hexValue": "#4D5644"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7008",
+    "hexValue": "#6A5F30"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7006",
+    "hexValue": "#6D6551"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7005",
+    "hexValue": "#646B62"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7004",
+    "hexValue": "#969991"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7003",
+    "hexValue": "#6C7058"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7002",
+    "hexValue": "#7E7B51"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7001",
+    "hexValue": "#8A9596"
+  },
+  {
+    "type": "color",
+    "name": "RAL 7000",
+    "hexValue": "#78858B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6038",
+    "hexValue": "#00F699"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6037",
+    "hexValue": "#24E710"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6036",
+    "hexValue": "#193736"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6035",
+    "hexValue": "#1C542D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6034",
+    "hexValue": "#7FB5B4"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6033",
+    "hexValue": "#497E75"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6032",
+    "hexValue": "#317F42"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6029",
+    "hexValue": "#20603D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6028",
+    "hexValue": "#2C5544"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6027",
+    "hexValue": "#84C3BE"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6026",
+    "hexValue": "#015D51"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6025",
+    "hexValue": "#3D642D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6024",
+    "hexValue": "#308445"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6022",
+    "hexValue": "#25221B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6021",
+    "hexValue": "#89AC75"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6020",
+    "hexValue": "#2E3A22"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6019",
+    "hexValue": "#BDECB5"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6018",
+    "hexValue": "#57A638"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6017",
+    "hexValue": "#4C9140"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6016",
+    "hexValue": "#1E5944"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6015",
+    "hexValue": "#3B3C35"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6014",
+    "hexValue": "#47402E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6013",
+    "hexValue": "#6C7155"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6012",
+    "hexValue": "#343E39"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6011",
+    "hexValue": "#587245"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6010",
+    "hexValue": "#35682D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6009",
+    "hexValue": "#31372B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6008",
+    "hexValue": "#39352A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6007",
+    "hexValue": "#343B28"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6006",
+    "hexValue": "#3E3B31"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6005",
+    "hexValue": "#2F4537"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6004",
+    "hexValue": "#1F3A3D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6003",
+    "hexValue": "#424631"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6002",
+    "hexValue": "#2D572C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6001",
+    "hexValue": "#287232"
+  },
+  {
+    "type": "color",
+    "name": "RAL 6000",
+    "hexValue": "#316649"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5026",
+    "hexValue": "#102C53"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5025",
+    "hexValue": "#2A6477"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5024",
+    "hexValue": "#5D9B9B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5023",
+    "hexValue": "#49678D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5022",
+    "hexValue": "#252849"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5021",
+    "hexValue": "#256D7B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5020",
+    "hexValue": "#1D334A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5019",
+    "hexValue": "#1B5582"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5018",
+    "hexValue": "#3F888F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5017",
+    "hexValue": "#063970"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5015",
+    "hexValue": "#2271B2"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5014",
+    "hexValue": "#606E8C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5013",
+    "hexValue": "#1E213D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5012",
+    "hexValue": "#3B83BD"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5011",
+    "hexValue": "#231A23"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5010",
+    "hexValue": "#0E294B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5009",
+    "hexValue": "#025668"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5008",
+    "hexValue": "#26252D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5007",
+    "hexValue": "#3E5F8A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5005",
+    "hexValue": "#1E2459"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5004",
+    "hexValue": "#18171C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5003",
+    "hexValue": "#1D1E32"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5002",
+    "hexValue": "#20214F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5001",
+    "hexValue": "#1F3437"
+  },
+  {
+    "type": "color",
+    "name": "RAL 5000",
+    "hexValue": "#354D72"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4012",
+    "hexValue": "#6C6873"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4011",
+    "hexValue": "#8673A0"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4010",
+    "hexValue": "#CF3475"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4009",
+    "hexValue": "#A18593"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4008",
+    "hexValue": "#8C568A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4007",
+    "hexValue": "#4A192C"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4006",
+    "hexValue": "#A03471"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4005",
+    "hexValue": "#6C4674"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4004",
+    "hexValue": "#641C33"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4003",
+    "hexValue": "#DE4C8A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4002",
+    "hexValue": "#922B3E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 4001",
+    "hexValue": "#6D3F5B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3033",
+    "hexValue": "#B44C42"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3032",
+    "hexValue": "#721421"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3031",
+    "hexValue": "#B32427"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3028",
+    "hexValue": "#E72511"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3027",
+    "hexValue": "#C51D33"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3026",
+    "hexValue": "#FE0001"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3024",
+    "hexValue": "#F79999"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3022",
+    "hexValue": "#D95029"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3020",
+    "hexValue": "#CC0604"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3018",
+    "hexValue": "#D53031"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3017",
+    "hexValue": "#E63243"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3016",
+    "hexValue": "#B32820"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3015",
+    "hexValue": "#EA899A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3014",
+    "hexValue": "#D36E69"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3013",
+    "hexValue": "#A12311"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3012",
+    "hexValue": "#C1876B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3011",
+    "hexValue": "#781F18"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3009",
+    "hexValue": "#642423"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3007",
+    "hexValue": "#412226"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3005",
+    "hexValue": "#5E2128"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3004",
+    "hexValue": "#75151E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3003",
+    "hexValue": "#9B111E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3002",
+    "hexValue": "#A2231D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3001",
+    "hexValue": "#A52018"
+  },
+  {
+    "type": "color",
+    "name": "RAL 3000",
+    "hexValue": "#AF2B1E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2013",
+    "hexValue": "#C35830"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2012",
+    "hexValue": "#E55136"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2011",
+    "hexValue": "#EC7C25"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2010",
+    "hexValue": "#D84B19"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2009",
+    "hexValue": "#F54020"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2008",
+    "hexValue": "#F75E24"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2007",
+    "hexValue": "#FFA419"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2005",
+    "hexValue": "#FF2300"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2004",
+    "hexValue": "#F44610"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2003",
+    "hexValue": "#FF7513"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2002",
+    "hexValue": "#CB2820"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2001",
+    "hexValue": "#C93C19"
+  },
+  {
+    "type": "color",
+    "name": "RAL 2000",
+    "hexValue": "#ED760E"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1037",
+    "hexValue": "#F39F17"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1036",
+    "hexValue": "#705334"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1035",
+    "hexValue": "#6A5D4D"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1034",
+    "hexValue": "#EFA94A"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1033",
+    "hexValue": "#F3A504"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1032",
+    "hexValue": "#D6AE00"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1028",
+    "hexValue": "#F4A899"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1027",
+    "hexValue": "#9D9100"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1026",
+    "hexValue": "#FFFF01"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1024",
+    "hexValue": "#AEA04B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1023",
+    "hexValue": "#FAD200"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1021",
+    "hexValue": "#F3DA0B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1020",
+    "hexValue": "#999949"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1019",
+    "hexValue": "#9E9763"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1018",
+    "hexValue": "#F8F32B"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1017",
+    "hexValue": "#F5D032"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1016",
+    "hexValue": "#EDFF20"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1015",
+    "hexValue": "#E6D689"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1014",
+    "hexValue": "#E1CC4F"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1013",
+    "hexValue": "#EAE6CA"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1012",
+    "hexValue": "#C7B445"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1011",
+    "hexValue": "#8A6641"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1007",
+    "hexValue": "#DC9D01"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1006",
+    "hexValue": "#E4A009"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1005",
+    "hexValue": "#A98306"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1004",
+    "hexValue": "#CDA433"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1003",
+    "hexValue": "#E5BE00"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1002",
+    "hexValue": "#C6A663"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1001",
+    "hexValue": "#C2B077"
+  },
+  {
+    "type": "color",
+    "name": "RAL 1000",
+    "hexValue": "#BEBD7F"
+  }
+]
